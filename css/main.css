@@ -1,0 +1,31 @@
+/* Inserta tu código aqui */
+body{
+	background-color:  #FFC300; 
+}
+.bkn{
+	background-color: black;
+}
+.gris{
+	background-color:  #d5d8dc;
+}
+.gray{
+	background-color:  #566573 ;
+	width: 50%;
+	padding: 1%;
+}
+.col-whi{
+	color: white;
+}
+
+.caja{
+	width: 20%;
+	margin-left: 3%;
+	border-radius: 100%;
+}
+
+.marg{
+	margin-left: 3%;
+}
+.mar-to{
+	margin-top:3%;
+}
